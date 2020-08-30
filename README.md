@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=RGOj5yH7evk&t=1081s
 
 1. Open index.html in your browser.
 2. this should make a conflict
+2. test a merge conflict
