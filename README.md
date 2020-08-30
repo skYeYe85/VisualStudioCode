@@ -1,7 +1,7 @@
 # VisualStudioCode
 Example working with Angular and VSC
 
-this is a change for testing ssh-key
+Testing ssh-key
 
 ## Beginners-Youtube Video for git and Github
 
